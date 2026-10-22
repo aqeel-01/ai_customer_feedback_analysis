@@ -1,0 +1,16 @@
+ticket_id,message,source,created_at
+T001,"The payment page crashes every time I click 'Checkout' on Chrome. Please fix this ASAP!",web,2026-10-01T09:00:00Z
+T002,"Hi team, it would be awesome if you could add a dark mode to the mobile app.",mobile,2026-10-01T09:05:00Z
+T003,"Hello, hope you are having a nice day!",email,2026-10-01T09:10:00Z
+T004,"I was charged twice for my subscription this month. Please refund the duplicate charge.",web,2026-10-01T09:15:00Z
+T005,"How do I export my data to CSV from the dashboard?",web,2026-10-01T09:20:00Z
+T006,"BUY NOW!!! LIMITED OFFER — 90% OFF ALL PRODUCTS TODAY ONLY!!!",email,2026-10-01T09:25:00Z
+T007,"The search feature is completely broken on Firefox — results don't load at all.",web,2026-10-01T09:30:00Z
+T008,"Hi",chat,2026-10-01T09:35:00Z
+T009,"Can you please add multi-factor authentication (MFA) support? Our security team requires it for compliance.",web,2026-10-01T09:40:00Z
+T010,"Good morning team!",chat,2026-10-01T09:45:00Z
+T011,"Where can I download the VAT tax invoice for our annual enterprise plan renewal?",email,2026-10-01T09:50:00Z
+T012,"The mobile app keeps crashing every time I upload an attachment on iOS 17.",mobile,2026-10-01T09:55:00Z
+T013,"Do you offer special pricing discounts for non-profit organizations or schools?",email,2026-10-01T10:00:00Z
+T014,"Flash sale! Claim your 50% discount voucher before midnight tonight!!!",email,2026-10-01T10:05:00Z
+T015,"Hey, could you support integration with Slack for real-time ticket alerts?",web,2026-10-01T10:10:00Z

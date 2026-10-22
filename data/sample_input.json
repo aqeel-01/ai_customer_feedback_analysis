@@ -1,0 +1,92 @@
+[
+  {
+    "ticket_id": "T001",
+    "message": "The payment page crashes every time I click 'Checkout' on Chrome. Please fix this ASAP!",
+    "source": "web",
+    "created_at": "2026-10-01T09:00:00Z"
+  },
+  {
+    "ticket_id": "T002",
+    "message": "Hi team, it would be awesome if you could add a dark mode to the mobile app.",
+    "source": "mobile",
+    "created_at": "2026-10-01T09:05:00Z"
+  },
+  {
+    "ticket_id": "T003",
+    "message": "Hello, hope you are having a nice day!",
+    "source": "email",
+    "created_at": "2026-10-01T09:10:00Z"
+  },
+  {
+    "ticket_id": "T004",
+    "message": "I was charged twice for my subscription this month. Please refund the duplicate charge.",
+    "source": "web",
+    "created_at": "2026-10-01T09:15:00Z"
+  },
+  {
+    "ticket_id": "T005",
+    "message": "How do I export my data to CSV from the dashboard?",
+    "source": "web",
+    "created_at": "2026-10-01T09:20:00Z"
+  },
+  {
+    "ticket_id": "T006",
+    "message": "BUY NOW!!! LIMITED OFFER — 90% OFF ALL PRODUCTS TODAY ONLY!!!",
+    "source": "email",
+    "created_at": "2026-10-01T09:25:00Z"
+  },
+  {
+    "ticket_id": "T007",
+    "message": "The search feature is completely broken on Firefox — results don't load at all.",
+    "source": "web",
+    "created_at": "2026-10-01T09:30:00Z"
+  },
+  {
+    "ticket_id": "T008",
+    "message": "Hi",
+    "source": "chat",
+    "created_at": "2026-10-01T09:35:00Z"
+  },
+  {
+    "ticket_id": "T009",
+    "message": "Can you please add multi-factor authentication (MFA) support? Our security team requires it for compliance.",
+    "source": "web",
+    "created_at": "2026-10-01T09:40:00Z"
+  },
+  {
+    "ticket_id": "T010",
+    "message": "Good morning team!",
+    "source": "chat",
+    "created_at": "2026-10-01T09:45:00Z"
+  },
+  {
+    "ticket_id": "T011",
+    "message": "Where can I download the VAT tax invoice for our annual enterprise plan renewal?",
+    "source": "email",
+    "created_at": "2026-10-01T09:50:00Z"
+  },
+  {
+    "ticket_id": "T012",
+    "message": "The mobile app keeps crashing every time I upload an attachment on iOS 17.",
+    "source": "mobile",
+    "created_at": "2026-10-01T09:55:00Z"
+  },
+  {
+    "ticket_id": "T013",
+    "message": "Do you offer special pricing discounts for non-profit organizations or schools?",
+    "source": "email",
+    "created_at": "2026-10-01T10:00:00Z"
+  },
+  {
+    "ticket_id": "T014",
+    "message": "Flash sale! Claim your 50% discount voucher before midnight tonight!!!",
+    "source": "email",
+    "created_at": "2026-10-01T10:05:00Z"
+  },
+  {
+    "ticket_id": "T015",
+    "message": "Hey, could you support integration with Slack for real-time ticket alerts?",
+    "source": "web",
+    "created_at": "2026-10-01T10:10:00Z"
+  }
+]

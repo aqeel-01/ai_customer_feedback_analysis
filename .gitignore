@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets — NEVER commit these
+.env
+
+# Generated output (preserve sample run deliverables)
+output/*
+!output/results.csv
+!output/results.json
+!output/all_tickets.csv
+!output/all_tickets.json
+!output/feedback.db
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ruff cache
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,10 @@
+# Dev / test dependencies (not needed in production)
+
+# Test runner
+pytest>=7.4.0,<10.0
+
+# Coverage reporting
+pytest-cov>=4.1.0,<8.0
+
+# Linting + formatting (replaces flake8 + black)
+ruff>=0.4.0,<1.0
